@@ -1,0 +1,16 @@
+#RESShortcutsEditContainer, 
+#RESShortcutsRight, 
+#RESShortcutsLeft, 
+#RESShortcutsAdd, 
+#RESShortcutsTrash {
+  background-color: #C5DAED !important;
+  z-index: 1000;
+}
+
+#RESShortcutsRight, 
+#RESShortcutsLeft, 
+#RESShortcutsAdd, 
+#RESShortcutsTrash {
+  height: 25px;
+  line-height: 23px;
+}

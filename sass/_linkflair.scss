@@ -1,0 +1,15 @@
+.linkflair-online .title { 
+  color: #33CC33 !important; 
+}
+.linkflair-offline .title { 
+  color: #CC3333 !important; 
+} 
+.linkflair-offline { 
+  opacity: 0.5 !important; 
+}
+.linkflair-offline .flairselector { 
+  opacity: 1 !important; 
+}
+
+html:lang(pr) .linkflair-offline{display:none}
+html:lang(on) .linkflair-offline{display:none}
